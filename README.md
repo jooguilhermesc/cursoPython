@@ -1,4 +1,4 @@
-# cursoPython
+# Python Para Não Programadores
 
 Olá, pessoal! Esse é o grupo do curso de Python para Não Programadores, meu objetivo com esse curso é cobrir os principais tópicos da linguagem que vão te dar liberdade e independência desenvolver códigos de acordo com a sua necessidade. Com esse curso, no primeiro módulo vocês vão aprender a declarar variáveis, conhecer algumas funções nativas do Python, importar bibliotecas, controlar o fluxo do código e definir funções, no segundo módulo (que ainda está em desenvolvimento) veremos a parte de raspagem da web e um pouco sobre análise exploratória de dados. 
 
